@@ -20,7 +20,7 @@
   <!-- profile logo 个人资料徽标 -->
   <div>
     <a href="https://healthysong.github.io/"><img src="https://img.shields.io/badge/Website-博客-8c36db" /></a>&emsp;
-    <a href="https://mp.sunguoqi.com"><img src="https://img.shields.io/badge/WeChat-微信-07c160" /></a>&emsp;
+    <a href="https://healthysong.github.io/images/wechat.jpeg"><img src="https://img.shields.io/badge/WeChat-微信-07c160" /></a>&emsp;
     <!-- visitor -->
     <img src="https://komarev.com/ghpvc/?username=healthysong&label=Views&color=orange&style=flat" alt="访问量统计" />&emsp;
     <!-- wakatime -->    
