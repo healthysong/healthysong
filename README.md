@@ -55,23 +55,6 @@
 
 <tr><td>
 
-### 📊 WakaTime
-
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/wakatime?username=healthysong&layout=compact&text_color=f0f6fc&bg_color=00000000&hide_border=true&hide_title=true"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/wakatime?username=healthysong&layout=compact&text_color=1f2328&bg_color=00000000&hide_border=true&hide_title=true"
-    media="(prefers-color-scheme: light)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=healthysong&layout=compact&text_color=f0f6fc&bg_color=00000000&hide_border=true&hide_title=true" />
-</picture>
-
-</td></tr>
-
-<tr><td>
 
 
 <!-- ########################################## 分割 ########################################## -->
@@ -179,23 +162,6 @@
 <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" /> 
 <img src="https://techstack-generator.vercel.app/redux-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 0px; margin-bottom: 0px;" />
 <img src="https://techstack-generator.vercel.app/eslint-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 0px; margin-bottom: 0px;" />
-
-<!-- gif -->
-<img height="100" width="100" src="https://cdn.jsdelivr.net/gh/healthysong/healthysong/assets/images/html.webp">
-<img height="100" width="100" src="https://cdn.jsdelivr.net/gh/healthysong/healthysong/assets/images/cssgif.webp">
-<img height="100" width="100" src="https://cdn.jsdelivr.net/gh/healthysong/healthysong/assets/images/vscode.webp">
-<img height="100" width="100" src="https://cdn.jsdelivr.net/gh/healthysong/healthysong/assets/images/react.webp">
-<img height="95" width="95" src="https://cdn.jsdelivr.net/gh/healthysong/healthysong/assets/images/vue.webp">
-<img height="100" width="100" src="https://cdn.jsdelivr.net/gh/healthysong/healthysong/assets/images/python.webp">
-<img height="100" width="100" src="https://cdn.jsdelivr.net/gh/healthysong/healthysong/assets/images/js.webp">
-<img height="100" width="100" src="https://cdn.jsdelivr.net/gh/healthysong/healthysong/assets/images/github.webp">
-
-<!-- profile-3d-contrib 3D 贡献图-->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/healthysong/healthysong/profile-3d-contrib/profile-night-rainbow.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/healthysong/healthysong/profile-3d-contrib/profile-gitblock.svg" />
-  <img src="https://cdn.jsdelivr.net/gh/healthysong/healthysong/profile-3d-contrib/profile-night-rainbow.svg" />
-</picture>
 
 </div>
 
